@@ -1,6 +1,6 @@
 # Podcast Aposta Digit@al
-Podcast criado com ferramentas de IA
-Esse é um projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais elaborados
+- Podcast criado com ferramentas de IA
+- Esse é um projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais elaborados
 
 ## Tecnologias utilizadas no projeto
 - [ChatGPT](https://chat.openai.com/) 
@@ -20,5 +20,8 @@ Esse projeto faz parte de um Desafio do BootCamp CAIXA e Microsoft Copilot na DI
 O objetivo era criar um Podcast com ferramentas de IA, desde a geração do título, roteiro, imagens e edição do áudio.
 
 ## Conclusão
-FOi um projeto muito rico de aprendizado, onte pude conhecer outras ferramentas e aprimorar outras já vista dentro da jornada do BootCamp CAIXA. Realmente é uma experiência muito bacana, gostei muito do resultado e espero que gostem. 
-Projeto pode ser consultado no link: 
+Foi um projeto muito rico de aprendizado, onte pude conhecer outras ferramentas e aprimorar outras já vista dentro da jornada do BootCamp CAIXA. Realmente é uma experiência muito bacana, gostei muito do resultado e espero que gostem. 
+
+## Projeto pode ser consultado no link abaixo:
+- [Podcast Aposta Digital](https://github.com/JaneAzevedo/Podcast-IA/blob/main/Podcast%20Aposta%20Digit%40l.mp4.bz2)
+
